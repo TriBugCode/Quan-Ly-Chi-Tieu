@@ -1,0 +1,2 @@
+D:\quản lý chi tiêu\Quan ly chi tieu\BUS_Quanlychitieu\obj\Debug\BUS_Quanlychitieu.csproj.AssemblyReference.cache
+D:\quản lý chi tiêu\Quan ly chi tieu\BUS_Quanlychitieu\obj\Debug\BUS_Quanlychitieu.csproj.CoreCompileInputs.cache

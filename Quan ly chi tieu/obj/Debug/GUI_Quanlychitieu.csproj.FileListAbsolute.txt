@@ -1,0 +1,13 @@
+D:\quản lý chi tiêu\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\GUI_Quanlychitieu.csproj.AssemblyReference.cache
+D:\quản lý chi tiêu\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.Báo_cáo_thống_kê.resources
+D:\quản lý chi tiêu\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.FrmDangNhap.resources
+D:\quản lý chi tiêu\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.FrmMain.resources
+D:\quản lý chi tiêu\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.Properties.Resources.resources
+D:\quản lý chi tiêu\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.Quanlynguoidung.resources
+D:\quản lý chi tiêu\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.Quen_mat_khau.resources
+D:\quản lý chi tiêu\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.Form2.resources
+D:\quản lý chi tiêu\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.Quản_lý_công_nợ.resources
+D:\quản lý chi tiêu\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.Form1.resources
+D:\quản lý chi tiêu\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.Đổi_mật_khẩu.resources
+D:\quản lý chi tiêu\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\GUI_Quanlychitieu.csproj.GenerateResource.cache
+D:\quản lý chi tiêu\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\GUI_Quanlychitieu.csproj.CoreCompileInputs.cache

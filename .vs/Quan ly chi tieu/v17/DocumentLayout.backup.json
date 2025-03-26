@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\qu\u1EA3n l\u00FD chi ti\u00EAu\\Quan ly chi tieu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEECDCFF-8181-4DB4-BD91-8D74292DFA9D}|DAL_Quanlychitieu\\DAL_Quanlychitieu.csproj|d:\\qu\u1EA3n l\u00FD chi ti\u00EAu\\quan ly chi tieu\\dal_quanlychitieu\\dal_thunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEECDCFF-8181-4DB4-BD91-8D74292DFA9D}|DAL_Quanlychitieu\\DAL_Quanlychitieu.csproj|solutionrelative:dal_quanlychitieu\\dal_thunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F59F7C2-9CA0-42AF-987B-D183896E2ECF}|BUS_Quanlychitieu\\BUS_Quanlychitieu.csproj|d:\\qu\u1EA3n l\u00FD chi ti\u00EAu\\quan ly chi tieu\\bus_quanlychitieu\\bus_thunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F59F7C2-9CA0-42AF-987B-D183896E2ECF}|BUS_Quanlychitieu\\BUS_Quanlychitieu.csproj|solutionrelative:bus_quanlychitieu\\bus_thunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F59F7C2-9CA0-42AF-987B-D183896E2ECF}|BUS_Quanlychitieu\\BUS_Quanlychitieu.csproj|d:\\qu\u1EA3n l\u00FD chi ti\u00EAu\\quan ly chi tieu\\bus_quanlychitieu\\bus_baocaotaichinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F59F7C2-9CA0-42AF-987B-D183896E2ECF}|BUS_Quanlychitieu\\BUS_Quanlychitieu.csproj|solutionrelative:bus_quanlychitieu\\bus_baocaotaichinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD131C0C-C2A2-43A6-883F-2C8DBD4D2E93}|DTO_Quanlychitieu\\DTO_Quanlychitieu.csproj|d:\\qu\u1EA3n l\u00FD chi ti\u00EAu\\quan ly chi tieu\\dto_quanlychitieu\\dto_thunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD131C0C-C2A2-43A6-883F-2C8DBD4D2E93}|DTO_Quanlychitieu\\DTO_Quanlychitieu.csproj|solutionrelative:dto_quanlychitieu\\dto_thunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2D9AA2-ACAF-4C17-B853-A130FE1D354A}|Quan ly chi tieu\\GUI_Quanlychitieu.csproj|D:\\qu\u1EA3n l\u00FD chi ti\u00EAu\\Quan ly chi tieu\\quan ly chi tieu\\qu\u1EA3n l\u00FD thu nh\u1EADp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD2D9AA2-ACAF-4C17-B853-A130FE1D354A}|Quan ly chi tieu\\GUI_Quanlychitieu.csproj|solutionrelative:quan ly chi tieu\\qu\u1EA3n l\u00FD thu nh\u1EADp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DTO_ThuNhap.cs",
+              "DocumentMoniker": "D:\\qu\u1EA3n l\u00FD chi ti\u00EAu\\Quan ly chi tieu\\DTO_Quanlychitieu\\DTO_ThuNhap.cs",
+              "RelativeDocumentMoniker": "DTO_Quanlychitieu\\DTO_ThuNhap.cs",
+              "ToolTip": "D:\\qu\u1EA3n l\u00FD chi ti\u00EAu\\Quan ly chi tieu\\DTO_Quanlychitieu\\DTO_ThuNhap.cs",
+              "RelativeToolTip": "DTO_Quanlychitieu\\DTO_ThuNhap.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:18:03.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAL_ThuNhap.cs",
+              "DocumentMoniker": "D:\\qu\u1EA3n l\u00FD chi ti\u00EAu\\Quan ly chi tieu\\DAL_Quanlychitieu\\DAL_ThuNhap.cs",
+              "RelativeDocumentMoniker": "DAL_Quanlychitieu\\DAL_ThuNhap.cs",
+              "ToolTip": "D:\\qu\u1EA3n l\u00FD chi ti\u00EAu\\Quan ly chi tieu\\DAL_Quanlychitieu\\DAL_ThuNhap.cs",
+              "RelativeToolTip": "DAL_Quanlychitieu\\DAL_ThuNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:18:34.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BUS_ThuNhap.cs",
+              "DocumentMoniker": "D:\\qu\u1EA3n l\u00FD chi ti\u00EAu\\Quan ly chi tieu\\BUS_Quanlychitieu\\BUS_ThuNhap.cs",
+              "RelativeDocumentMoniker": "BUS_Quanlychitieu\\BUS_ThuNhap.cs",
+              "ToolTip": "D:\\qu\u1EA3n l\u00FD chi ti\u00EAu\\Quan ly chi tieu\\BUS_Quanlychitieu\\BUS_ThuNhap.cs",
+              "RelativeToolTip": "BUS_Quanlychitieu\\BUS_ThuNhap.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:55:08.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BUS_baocaotaichinh.cs",
+              "DocumentMoniker": "D:\\qu\u1EA3n l\u00FD chi ti\u00EAu\\Quan ly chi tieu\\BUS_Quanlychitieu\\BUS_baocaotaichinh.cs",
+              "RelativeDocumentMoniker": "BUS_Quanlychitieu\\BUS_baocaotaichinh.cs",
+              "ToolTip": "D:\\qu\u1EA3n l\u00FD chi ti\u00EAu\\Quan ly chi tieu\\BUS_Quanlychitieu\\BUS_baocaotaichinh.cs",
+              "RelativeToolTip": "BUS_Quanlychitieu\\BUS_baocaotaichinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:55:07.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Qu\u1EA3n l\u00FD thu nh\u1EADp.cs [Design]",
+              "DocumentMoniker": "D:\\qu\u1EA3n l\u00FD chi ti\u00EAu\\Quan ly chi tieu\\Quan ly chi tieu\\Qu\u1EA3n l\u00FD thu nh\u1EADp.cs",
+              "RelativeDocumentMoniker": "Quan ly chi tieu\\Qu\u1EA3n l\u00FD thu nh\u1EADp.cs",
+              "ToolTip": "D:\\qu\u1EA3n l\u00FD chi ti\u00EAu\\Quan ly chi tieu\\Quan ly chi tieu\\Qu\u1EA3n l\u00FD thu nh\u1EADp.cs [Design]",
+              "RelativeToolTip": "Quan ly chi tieu\\Qu\u1EA3n l\u00FD thu nh\u1EADp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:11:20.567Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

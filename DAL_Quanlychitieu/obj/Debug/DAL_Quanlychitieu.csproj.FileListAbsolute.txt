@@ -1,0 +1,11 @@
+D:\quản lý chi tiêu\Quan ly chi tieu\DAL_Quanlychitieu\bin\Debug\DAL_Quanlychitieu.exe.config
+D:\quản lý chi tiêu\Quan ly chi tieu\DAL_Quanlychitieu\bin\Debug\DAL_Quanlychitieu.exe
+D:\quản lý chi tiêu\Quan ly chi tieu\DAL_Quanlychitieu\bin\Debug\DAL_Quanlychitieu.pdb
+D:\quản lý chi tiêu\Quan ly chi tieu\DAL_Quanlychitieu\bin\Debug\DTO_Quanlychitieu.exe
+D:\quản lý chi tiêu\Quan ly chi tieu\DAL_Quanlychitieu\bin\Debug\DTO_Quanlychitieu.pdb
+D:\quản lý chi tiêu\Quan ly chi tieu\DAL_Quanlychitieu\bin\Debug\DTO_Quanlychitieu.exe.config
+D:\quản lý chi tiêu\Quan ly chi tieu\DAL_Quanlychitieu\obj\Debug\DAL_Quanlychitieu.csproj.AssemblyReference.cache
+D:\quản lý chi tiêu\Quan ly chi tieu\DAL_Quanlychitieu\obj\Debug\DAL_Quanlychitieu.csproj.CoreCompileInputs.cache
+D:\quản lý chi tiêu\Quan ly chi tieu\DAL_Quanlychitieu\obj\Debug\DAL_Quan.E75950A8.Up2Date
+D:\quản lý chi tiêu\Quan ly chi tieu\DAL_Quanlychitieu\obj\Debug\DAL_Quanlychitieu.exe
+D:\quản lý chi tiêu\Quan ly chi tieu\DAL_Quanlychitieu\obj\Debug\DAL_Quanlychitieu.pdb
