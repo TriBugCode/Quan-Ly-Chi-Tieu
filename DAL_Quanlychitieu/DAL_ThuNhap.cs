@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Data;
@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DAL_Quanlychitieu
 {
-    public class DAL_Hang : DBConnect
+    public class DAL_thunhap : DBConnect
     {
         public DataTable getthunhap()
             {
@@ -90,8 +90,7 @@ namespace DAL_Quanlychitieu
         }
 
         public DataTable Searchthunhap(int mathunhap)
-        {
-            SqlDataAdapter da = new SqlDataAdapter("SELECT * FROM ThuNhap WHERE MaThuNhap LIKE '%' + @MaThuNhap + '%'", _conn);
+        {SqlDataAdapter da = new SqlDataAdapter("SELECT * FROM ThuNhap WHERE MaThuNhap LIKE '%' + @MaThuNhap + '%'", _conn);
             da.SelectCommand.Parameters.AddWithValue("@MaThuNhap", mathunhap);
             DataTable dtthunhap = new DataTable();
             da.Fill(dtthunhap);
