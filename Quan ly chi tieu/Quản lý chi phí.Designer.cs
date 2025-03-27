@@ -51,6 +51,7 @@
             this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.cmbloaichiphi = new System.Windows.Forms.ComboBox();
+            this.btnLuu = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -62,7 +63,7 @@
             this.label1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label1.Location = new System.Drawing.Point(233, 38);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(170, 29);
+            this.label1.Size = new System.Drawing.Size(136, 24);
             this.label1.TabIndex = 0;
             this.label1.Text = "Quản lý chi phí";
             // 
@@ -74,7 +75,7 @@
             this.label2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label2.Location = new System.Drawing.Point(261, 93);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(69, 18);
+            this.label2.Size = new System.Drawing.Size(58, 15);
             this.label2.TabIndex = 1;
             this.label2.Text = "Tìm kiếm";
             // 
@@ -86,7 +87,7 @@
             this.label3.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label3.Location = new System.Drawing.Point(60, 177);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(75, 18);
+            this.label3.Size = new System.Drawing.Size(64, 15);
             this.label3.TabIndex = 2;
             this.label3.Text = "Mã chi phí";
             // 
@@ -98,7 +99,7 @@
             this.label4.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label4.Location = new System.Drawing.Point(354, 177);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(101, 18);
+            this.label4.Size = new System.Drawing.Size(86, 15);
             this.label4.TabIndex = 3;
             this.label4.Text = "Ngày ghi nhập";
             // 
@@ -110,7 +111,7 @@
             this.label5.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label5.Location = new System.Drawing.Point(59, 247);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(54, 18);
+            this.label5.Size = new System.Drawing.Size(45, 15);
             this.label5.TabIndex = 4;
             this.label5.Text = "Số tiền";
             // 
@@ -122,7 +123,7 @@
             this.label6.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label6.Location = new System.Drawing.Point(353, 247);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(82, 18);
+            this.label6.Size = new System.Drawing.Size(70, 15);
             this.label6.TabIndex = 5;
             this.label6.Text = "Loại chi phí";
             // 
@@ -134,7 +135,7 @@
             this.label7.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label7.Location = new System.Drawing.Point(96, 316);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(59, 18);
+            this.label7.Size = new System.Drawing.Size(49, 15);
             this.label7.TabIndex = 6;
             this.label7.Text = "Ghi chú";
             // 
@@ -142,40 +143,40 @@
             // 
             this.txtmachiphi.Location = new System.Drawing.Point(62, 208);
             this.txtmachiphi.Name = "txtmachiphi";
-            this.txtmachiphi.Size = new System.Drawing.Size(190, 24);
+            this.txtmachiphi.Size = new System.Drawing.Size(190, 21);
             this.txtmachiphi.TabIndex = 7;
             // 
             // txtsotien
             // 
             this.txtsotien.Location = new System.Drawing.Point(62, 277);
             this.txtsotien.Name = "txtsotien";
-            this.txtsotien.Size = new System.Drawing.Size(190, 24);
+            this.txtsotien.Size = new System.Drawing.Size(190, 21);
             this.txtsotien.TabIndex = 8;
             // 
             // txtghichu
             // 
             this.txtghichu.Location = new System.Drawing.Point(62, 353);
             this.txtghichu.Name = "txtghichu";
-            this.txtghichu.Size = new System.Drawing.Size(572, 24);
+            this.txtghichu.Size = new System.Drawing.Size(572, 21);
             this.txtghichu.TabIndex = 9;
             // 
             // dateTimePicker1
             // 
             this.dateTimePicker1.Location = new System.Drawing.Point(357, 208);
             this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(277, 24);
+            this.dateTimePicker1.Size = new System.Drawing.Size(277, 21);
             this.dateTimePicker1.TabIndex = 11;
             // 
             // txttimkiem
             // 
             this.txttimkiem.Location = new System.Drawing.Point(163, 127);
             this.txttimkiem.Name = "txttimkiem";
-            this.txttimkiem.Size = new System.Drawing.Size(307, 24);
+            this.txttimkiem.Size = new System.Drawing.Size(307, 21);
             this.txttimkiem.TabIndex = 12;
             // 
             // btnthem
             // 
-            this.btnthem.Location = new System.Drawing.Point(109, 399);
+            this.btnthem.Location = new System.Drawing.Point(63, 399);
             this.btnthem.Name = "btnthem";
             this.btnthem.Size = new System.Drawing.Size(84, 35);
             this.btnthem.TabIndex = 13;
@@ -184,7 +185,7 @@
             // 
             // btnsua
             // 
-            this.btnsua.Location = new System.Drawing.Point(221, 399);
+            this.btnsua.Location = new System.Drawing.Point(168, 399);
             this.btnsua.Name = "btnsua";
             this.btnsua.Size = new System.Drawing.Size(84, 35);
             this.btnsua.TabIndex = 14;
@@ -193,7 +194,7 @@
             // 
             // btnxoa
             // 
-            this.btnxoa.Location = new System.Drawing.Point(340, 399);
+            this.btnxoa.Location = new System.Drawing.Point(285, 399);
             this.btnxoa.Name = "btnxoa";
             this.btnxoa.Size = new System.Drawing.Size(84, 35);
             this.btnxoa.TabIndex = 15;
@@ -202,7 +203,7 @@
             // 
             // btntimkiem
             // 
-            this.btntimkiem.Location = new System.Drawing.Point(468, 399);
+            this.btntimkiem.Location = new System.Drawing.Point(402, 399);
             this.btntimkiem.Name = "btntimkiem";
             this.btntimkiem.Size = new System.Drawing.Size(84, 35);
             this.btntimkiem.TabIndex = 16;
@@ -265,16 +266,26 @@
             this.cmbloaichiphi.FormattingEnabled = true;
             this.cmbloaichiphi.Location = new System.Drawing.Point(357, 276);
             this.cmbloaichiphi.Name = "cmbloaichiphi";
-            this.cmbloaichiphi.Size = new System.Drawing.Size(277, 26);
+            this.cmbloaichiphi.Size = new System.Drawing.Size(277, 23);
             this.cmbloaichiphi.TabIndex = 18;
+            // 
+            // btnLuu
+            // 
+            this.btnLuu.Location = new System.Drawing.Point(515, 399);
+            this.btnLuu.Name = "btnLuu";
+            this.btnLuu.Size = new System.Drawing.Size(84, 35);
+            this.btnLuu.TabIndex = 19;
+            this.btnLuu.Text = "Lưu";
+            this.btnLuu.UseVisualStyleBackColor = true;
             // 
             // Form2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Quan_ly_chi_tieu.Properties.Resources.Screenshot_2025_03_18_111055;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(660, 619);
+            this.ClientSize = new System.Drawing.Size(659, 619);
+            this.Controls.Add(this.btnLuu);
             this.Controls.Add(this.cmbloaichiphi);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.btntimkiem);
@@ -328,5 +339,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column5;
         private System.Windows.Forms.ComboBox cmbloaichiphi;
+        private System.Windows.Forms.Button btnLuu;
     }
 }

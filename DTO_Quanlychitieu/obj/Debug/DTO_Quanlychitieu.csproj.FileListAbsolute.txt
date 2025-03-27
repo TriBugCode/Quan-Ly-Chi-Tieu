@@ -5,3 +5,10 @@ D:\quản lý chi tiêu\Quan ly chi tieu\DTO_Quanlychitieu\obj\Debug\DTO_Quanlyc
 D:\quản lý chi tiêu\Quan ly chi tieu\DTO_Quanlychitieu\obj\Debug\DTO_Quanlychitieu.csproj.CoreCompileInputs.cache
 D:\quản lý chi tiêu\Quan ly chi tieu\DTO_Quanlychitieu\obj\Debug\DTO_Quanlychitieu.exe
 D:\quản lý chi tiêu\Quan ly chi tieu\DTO_Quanlychitieu\obj\Debug\DTO_Quanlychitieu.pdb
+D:\Quan ly chi tieu\DTO_Quanlychitieu\bin\Debug\DTO_Quanlychitieu.exe.config
+D:\Quan ly chi tieu\DTO_Quanlychitieu\bin\Debug\DTO_Quanlychitieu.exe
+D:\Quan ly chi tieu\DTO_Quanlychitieu\bin\Debug\DTO_Quanlychitieu.pdb
+D:\Quan ly chi tieu\DTO_Quanlychitieu\obj\Debug\DTO_Quanlychitieu.csproj.AssemblyReference.cache
+D:\Quan ly chi tieu\DTO_Quanlychitieu\obj\Debug\DTO_Quanlychitieu.csproj.CoreCompileInputs.cache
+D:\Quan ly chi tieu\DTO_Quanlychitieu\obj\Debug\DTO_Quanlychitieu.exe
+D:\Quan ly chi tieu\DTO_Quanlychitieu\obj\Debug\DTO_Quanlychitieu.pdb

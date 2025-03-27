@@ -11,3 +11,31 @@ D:\quản lý chi tiêu\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_
 D:\quản lý chi tiêu\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.Đổi_mật_khẩu.resources
 D:\quản lý chi tiêu\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\GUI_Quanlychitieu.csproj.GenerateResource.cache
 D:\quản lý chi tiêu\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\GUI_Quanlychitieu.csproj.CoreCompileInputs.cache
+D:\Quan ly chi tieu\Quan ly chi tieu\bin\Debug\Quan ly chi tieu.exe.config
+D:\Quan ly chi tieu\Quan ly chi tieu\bin\Debug\Quan ly chi tieu.exe
+D:\Quan ly chi tieu\Quan ly chi tieu\bin\Debug\Quan ly chi tieu.pdb
+D:\Quan ly chi tieu\Quan ly chi tieu\bin\Debug\BUS_Quanlychitieu.exe
+D:\Quan ly chi tieu\Quan ly chi tieu\bin\Debug\DAL_Quanlychitieu.exe
+D:\Quan ly chi tieu\Quan ly chi tieu\bin\Debug\DTO_Quanlychitieu.exe
+D:\Quan ly chi tieu\Quan ly chi tieu\bin\Debug\BUS_Quanlychitieu.pdb
+D:\Quan ly chi tieu\Quan ly chi tieu\bin\Debug\BUS_Quanlychitieu.exe.config
+D:\Quan ly chi tieu\Quan ly chi tieu\bin\Debug\DAL_Quanlychitieu.pdb
+D:\Quan ly chi tieu\Quan ly chi tieu\bin\Debug\DAL_Quanlychitieu.exe.config
+D:\Quan ly chi tieu\Quan ly chi tieu\bin\Debug\DTO_Quanlychitieu.pdb
+D:\Quan ly chi tieu\Quan ly chi tieu\bin\Debug\DTO_Quanlychitieu.exe.config
+D:\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\GUI_Quanlychitieu.csproj.AssemblyReference.cache
+D:\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.Báo_cáo_thống_kê.resources
+D:\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.FrmDangNhap.resources
+D:\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.FrmMain.resources
+D:\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.Properties.Resources.resources
+D:\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.Quanlynguoidung.resources
+D:\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.Quen_mat_khau.resources
+D:\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.Form2.resources
+D:\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.Quản_lý_công_nợ.resources
+D:\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.Form1.resources
+D:\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan_ly_chi_tieu.Đổi_mật_khẩu.resources
+D:\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\GUI_Quanlychitieu.csproj.GenerateResource.cache
+D:\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\GUI_Quanlychitieu.csproj.CoreCompileInputs.cache
+D:\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\GUI_Quan.553EA02C.Up2Date
+D:\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan ly chi tieu.exe
+D:\Quan ly chi tieu\Quan ly chi tieu\obj\Debug\Quan ly chi tieu.pdb
